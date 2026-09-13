@@ -1,0 +1,2 @@
+rpm_min:450
+rpm_max:1800
